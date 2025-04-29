@@ -87,4 +87,5 @@ minikube service nginx-deployment
 ```
 
 ## You should now see the message in your browser. :)
-```ate a file 
+
+![Output](final_result1 "a ")

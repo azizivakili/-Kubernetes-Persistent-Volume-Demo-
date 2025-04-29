@@ -5,6 +5,10 @@ This project is a beginner-friendly tutorial to demonstrate how to assign **Pers
 ---
 
 ## 📦 Project Structure
-k8s-pv-demo/ ├── pv.yaml # PersistentVolume definition ├── pvc.yaml # PersistentVolumeClaim definition ├── nginx-deployment.yaml # Nginx Deployment using the PVC └── README.md # Project documentation
+# k8s-pv-demo/ ├── pv.yaml 
+# PersistentVolume definition ├── pvc.yaml 
+# PersistentVolumeClaim definition ├── nginx-deployment.yaml 
+# Nginx Deployment using the PVC └── README.md 
+# Project documentation
 
 

@@ -88,4 +88,4 @@ minikube service nginx-deployment
 
 ## You should now see the message in your browser. :)
 
-![Output](final_result1 "a ")
+![Output](final_result1.png "a ")
